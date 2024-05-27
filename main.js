@@ -1,3 +1,6 @@
+//Nome: Felipe da Silva Pinho Nascimento
+//Código da Turma: 963R || Noite
+//Matricula: 2024100675
 function isPrime(num) { // Função para verificar se é primo
     if (num <= 1) {
         return false;
