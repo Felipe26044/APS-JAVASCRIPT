@@ -13,7 +13,7 @@ function isPrime(num) { // Função para verificar se é primo
     return true;
 }
 
-const numeroTeste = 13; // Altere para o número que deseja
+const numeroTeste = prompt("Digite um número"); // Altere para o número que deseja
 if (isPrime(numeroTeste)) {
     console.log(`${numeroTeste} é primo.`);
 } else {
